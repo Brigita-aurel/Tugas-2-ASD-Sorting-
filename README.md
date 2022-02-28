@@ -9,7 +9,7 @@ Ada beberapa macam tipe sorting, diantaranya :
   Bubble sort (metode gelembung) adalah metode/algoritma pengurutan dengan dengan cara melakukan penukaran data dengan tepat disebelahnya secara terus menerus sampai bisa dipastikan dalam satu iterasi tertentu tidak ada lagi perubahan. Jika tidak ada perubahan berarti data sudah terurut. Disebut pengurutan gelembung karena masing-masing kunci akan dengan lambat menggelembung ke posisinya yang tepat.  
 
 
-2. <a href=" ">Selection Sort</a>.
+2. <a href="https://github.com/Brigita-aurel/Tugas-2-ASD-Sorting-/blob/main/Selection%20Sort">Selection Sort</a>.
 
 Selection sort merupakan kombinasi dari searching dan sorting. Sebuah algoritma pengurutan yang secara berulang mencari item yang belum terurut dan mencari paling sedikit satu untuk dimasukkan ke dalam lokasi akhir. Metode ini memiliki konsep memilih data yang maksimum/minimum dari suatu kumpulan data larik L, lalu menempatkan data tersebut ke elemen paling akhir atau paling awal
 sesuai pengurutan yang diinginkan. Data maksimum/minimum yang diperoleh, diasingkan ke tempat lain, dan tidak diikutsertakan pada proses pencarian data maksimum/minimum berikutnya.
