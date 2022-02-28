@@ -1,0 +1,37 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+int main()
+{
+   /*Di sini i & j untuk penghitung loop, temp untuk bertukar,
+     hitung jumlah total elemen, jumlah[] hingga
+     menyimpan nomor input dalam array. Anda dapat meningkatkan
+     atau kurangi ukuran array angka sesuai kebutuhan
+    */
+   int i, j, hitung, temp, angka[30];
+
+   printf("Berapa banyak nomor yang akan Anda masukkan?: ");
+   scanf("%d",&hitung);
+
+   printf("Masukkan %d angka: ", hitung);
+   // Perulangan ini akan menyimpan nomor input dalam array
+   for(i=0;i<hitung;i++)
+      scanf("%d",&angka[i]);
+
+   // Implementasi algoritma pengurutan penyisipan
+   for(i=1;i<hitung;i++){
+      temp=angka[i];
+      j=i-1;
+      while((temp<angka[j])&&(j>=0)){
+         angka[j+1]=angka[j];
+         j=j-1;
+      }
+      angka[j+1]=temp;
+   }
+
+   printf("\nUrutan angka yang Diurutkan (Ascending) : ");
+   for(i=0;i<hitung;i++)
+      printf(" %d",angka[i]);
+
+   return 0;
+}
