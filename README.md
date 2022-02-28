@@ -23,7 +23,7 @@ Di dalam selection sort memiliki 2 varian seleksi/pengurutan data yaitu maximum 
 2.    Minimum sort yaitu kebalikan dari maximum sort yaitu mencari data terkecil(X) yang   dibandingkan dengan index 1 kemudian jika index1 > data terkecil(X) maka data terkecil menjadi       index1.  
 
 
-3. <a href=" ">Insertion Sort</a>.
+3. <a href="https://github.com/Brigita-aurel/Tugas-2-ASD-Sorting-/blob/main/Insertion%20Sort">Insertion Sort</a>.
 
 Insertion sort adalah sebuah metode pengurutan data dengan menempatkan setiap elemen data pada pisisinya dengan cara melakukan perbandingan dengan data – data yang ada. Inde algoritma dari metode insertion sort ini dapat dianalogikan sama seperti mengurutkan kartu, dimana jika suatu kartu dipindah tempatkan menurut posisinya, maka kartu yang lain akan bergeser mundur atau maju sesuai kondisi pemindahanan kartu tersebut. Dalam pengurutan data, metode ini dipakai bertujuan untuk menjadikan bagian sisi kiri array terurutkan sampai dengan seluruh array diurutkan.
 
