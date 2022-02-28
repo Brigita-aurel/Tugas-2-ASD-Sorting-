@@ -4,7 +4,7 @@ SORTING :
 Sorting merupakan teknik untuk mengurutkan data yang acak hingga bisa tersusun rapi dari terkecil ke terbesar atau sebaliknya.
 Ada beberapa macam tipe sorting, diantaranya : 
 
-1. <a href=" ">Bubble Sort</a>.
+1. <a href="https://github.com/Brigita-aurel/Tugas-2-ASD-Sorting-/blob/main/Bubble%20Sorting">Bubble Sort</a>.
     
   Bubble sort (metode gelembung) adalah metode/algoritma pengurutan dengan dengan cara melakukan penukaran data dengan tepat disebelahnya secara terus menerus sampai bisa dipastikan dalam satu iterasi tertentu tidak ada lagi perubahan. Jika tidak ada perubahan berarti data sudah terurut. Disebut pengurutan gelembung karena masing-masing kunci akan dengan lambat menggelembung ke posisinya yang tepat.  
 
