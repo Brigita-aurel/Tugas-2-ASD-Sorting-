@@ -27,7 +27,7 @@ Di dalam selection sort memiliki 2 varian seleksi/pengurutan data yaitu maximum 
 
 Insertion sort adalah sebuah metode pengurutan data dengan menempatkan setiap elemen data pada pisisinya dengan cara melakukan perbandingan dengan data – data yang ada. Inde algoritma dari metode insertion sort ini dapat dianalogikan sama seperti mengurutkan kartu, dimana jika suatu kartu dipindah tempatkan menurut posisinya, maka kartu yang lain akan bergeser mundur atau maju sesuai kondisi pemindahanan kartu tersebut. Dalam pengurutan data, metode ini dipakai bertujuan untuk menjadikan bagian sisi kiri array terurutkan sampai dengan seluruh array diurutkan.
 
-4. <a href=" ">Insertion Sort ( Tugas NIM genap)</a>.
+4. <a href="https://github.com/Brigita-aurel/Tugas-2-ASD-Sorting-/blob/main/Insertion%20Sort%20(%20Tugas%20NIM%20genap)">Insertion Sort ( Tugas NIM genap)</a>.
 
   Ini tugas insertion Sort untuk mahasiswa yang mempunyai akhiran NIM angka genap.
   
