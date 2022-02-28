@@ -1,6 +1,7 @@
 # Tugas-2-ASD-Sorting-
 
 SORTING :
+
 Sorting merupakan teknik untuk mengurutkan data yang acak hingga bisa tersusun rapi dari terkecil ke terbesar atau sebaliknya.
 Ada beberapa macam tipe sorting, diantaranya : 
 
