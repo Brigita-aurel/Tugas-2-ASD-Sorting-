@@ -21,7 +21,11 @@ Di dalam selection sort memiliki 2 varian seleksi/pengurutan data yaitu maximum 
 1.    Maximum sort yaitu mencari data terbesar(X) yang dibandingan dengan index 1 kemudian jika   index1 < data terbesar(X) maka data terbesar menjadi index 1.
 
 
-2.    Minimum sort yaitu kebalikan dari maximum sort yaitu mencari data terkecil(X) yang   dibandingkan dengan index 1 kemudian jika index1 > data terkecil(X) maka data terkecil menjadi       index1.  
+2.    Minimum sort yaitu kebalikan dari maximum sort yaitu mencari data terkecil(X) yang   dibandingkan dengan index 1 kemudian jika index1 > data terkecil(X) maka data terkecil menjadi index 1. 
+
+![_D__Kuliah_DOKUMEN_SEMESTER 2_ASD_Tugas 2 ASD ( Dosen )_Selection sort (tugas 2b)_bin_Debug_Selection sort (tugas 2b) exe_  28_02_2022 15 21 04](https://user-images.githubusercontent.com/99226914/155942559-82d0e25a-8323-491b-95fc-7ed597b79671.png)
+
+ 
 
 
 3. <a href="https://github.com/Brigita-aurel/Tugas-2-ASD-Sorting-/blob/main/Insertion%20Sort">Insertion Sort</a>.
