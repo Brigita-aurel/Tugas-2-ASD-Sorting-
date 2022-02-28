@@ -1,0 +1,33 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+
+int main()
+{
+   int a, b, hitung, temp, angka[30];
+
+   printf("Berapa angka yang ingin diinputkan : ");
+   scanf("%d",&hitung);
+
+   printf("Masukkan %d angka: \n", hitung);
+   // perulangan untuk mendapatkan angka yang disimpan dalam array
+   for(a=0;a<hitung;a++)
+      scanf("%d",&angka[a]);
+
+   // logika algoritma dari Selection Sort
+   for(a=0;a<hitung;a++){
+      for(b=a+1;b<hitung;b++){
+         if(angka[a]>angka[b]){
+            temp=angka[a];
+            angka[a]=angka[b];
+            angka[b]=temp;
+         }
+      }
+   }
+
+   printf("\nAngka yang diurutkan: ");
+   for(a=0;a<hitung;a++)
+      printf(" %d",angka[a]);
+
+   return 0;
+}
