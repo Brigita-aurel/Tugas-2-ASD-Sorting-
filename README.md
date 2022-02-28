@@ -31,7 +31,7 @@ Insertion sort adalah sebuah metode pengurutan data dengan menempatkan setiap el
 
   Ini tugas insertion Sort untuk mahasiswa yang mempunyai akhiran NIM angka genap.
   
-5. <a href=" ">Selection Sort ( Tugas NIM genap)</a>.
+5. <a href="https://github.com/Brigita-aurel/Tugas-2-ASD-Sorting-/blob/main/Selection%20Sort%20(%20Tugas%20NIM%20genap)">Selection Sort ( Tugas NIM genap)</a>.
 
   Ini tugas Selection Sort untuk mahasiswa yang mempunyai akhiran NIM angka genap.
 
